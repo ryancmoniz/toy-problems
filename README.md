@@ -3,11 +3,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 1    
- :large_blue_circle: Medium: 0  
- :red_circle: Hard: 0  
- :black_circle: Very Hard: 0  
- :star: Good to review  
+ :white_circle: Easy: 1
+ :large_blue_circle: Medium: 0
+ :red_circle: Hard: 0
+ :black_circle: Very Hard: 0
+ :star: Good to review
 
  __Total:__ 1
 
@@ -17,6 +17,8 @@ __Difficulty Levels solved__
 #### Sorting Algo
 1. :white_circle: __Bubble Sort__ [Go](Easy/bubbleSort/Go)
 
+### Algo Expert
+2. :white_circle: __Depth First Search__ [Go](Easy/depthFirstSearch/Go)
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
