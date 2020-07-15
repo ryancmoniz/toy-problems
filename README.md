@@ -5,11 +5,11 @@ __Difficulty Levels solved__
 
  :white_circle: Easy: 2  
  :large_blue_circle: Medium: 0  
- :red_circle: Hard: 0  
+ :red_circle: Hard: 1  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 2
+ __Total:__ 3
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 15th, 2020
@@ -19,6 +19,7 @@ __Difficulty Levels solved__
 
 ### Algo Expert
 2. :white_circle: __Depth First Search__ [Go](Easy/depthFirstSearch/Go)
+3. :red_circle: __Reverse Linked List__ [Go](Hard/reverseLinkedList/Go)
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
