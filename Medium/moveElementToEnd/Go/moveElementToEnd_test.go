@@ -1,4 +1,4 @@
-package moveElementToEnd
+package Go
 
 import (
 	"reflect"

@@ -1,4 +1,4 @@
-package moveElementToEnd
+package Go
 
 func moveElementToEnd(array []int, toMove int) []int {
 	l, r := 0, len(array)-1
