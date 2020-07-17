@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
 
  :white_circle: Easy: 2  
- :large_blue_circle: Medium: 1  
+ :large_blue_circle: Medium: 2  
  :red_circle: Hard: 1  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 4
+ __Total:__ 5
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 15th, 2020
@@ -28,5 +28,6 @@ __Difficulty Levels solved__
 
 #### Algo Expert
 4. :large_blue_circle: __Is Monotonic__ [Go](Medium/isMonotonic/Go)
+5. :large_blue_circle: __Move Element To End__ [Go](Medium/moveElementToEnd/Go)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
