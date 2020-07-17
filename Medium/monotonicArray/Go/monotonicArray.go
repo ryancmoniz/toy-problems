@@ -1,4 +1,4 @@
-package monotonicArray
+package Go
 
 func isMonotonic(array []int) bool {
 	inc := true

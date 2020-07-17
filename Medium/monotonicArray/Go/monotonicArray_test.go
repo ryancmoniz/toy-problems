@@ -1,4 +1,4 @@
-package monotonicArray
+package Go
 
 import "testing"
 
