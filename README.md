@@ -5,11 +5,11 @@ __Difficulty Levels solved__
 
  :white_circle: Easy: 4  
  :large_blue_circle: Medium: 5  
- :red_circle: Hard: 1  
+ :red_circle: Hard: 2  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 10
+ __Total:__ 11
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -47,4 +47,7 @@ __Difficulty Levels solved__
 #### Misc
 9. :white_circle: __Shuffle Deck__ [JS](Easy/shuffleDeck/Javascript)
 10. :large_blue_circle: __Telephone Words__ [JS](Medium/telephoneWords/Javascript)
+
+#### Algo Expert
+11. :red_circle: __Longest Substring Without Duplication__ [Go](Hard/longestSubstringWithoutDuplication/Go)
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
