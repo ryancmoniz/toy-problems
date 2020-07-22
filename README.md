@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
 
  :white_circle: Easy: 4  
- :large_blue_circle: Medium: 4  
+ :large_blue_circle: Medium: 5  
  :red_circle: Hard: 1  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 9
+ __Total:__ 10
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -46,5 +46,5 @@ __Difficulty Levels solved__
 
 #### Misc
 9. :white_circle: __Shuffle Deck__ [JS](Easy/shuffleDeck/Javascript)
-
+10. :large_blue_circle: __Telephone Words__ [JS](Medium/telephoneWords/Javascript)
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
