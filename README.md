@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 3  
+ :white_circle: Easy: 4  
  :large_blue_circle: Medium: 4  
  :red_circle: Hard: 1  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 8
+ __Total:__ 9
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -38,5 +38,13 @@ __Difficulty Levels solved__
 6. :white_circle: __First Non-repeated Character__ [JS](Easy/firstNonRepeatedCharacter/Javascript)
 7. :large_blue_circle: __Container with Most Water__ [Go](Medium/containerWithMostWater/Go)
 8. :large_blue_circle: __Longest Palindromic Substring__ [Go](Medium/longestPalindromicSubstring/Go)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+
+## Day 3 - July 22nd, 2020
+
+#### Misc
+9. :white_circle: __Shuffle Deck__ [JS](Easy/shuffleDeck/Javascript)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
