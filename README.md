@@ -27,7 +27,7 @@ __Difficulty Levels solved__
 ## Day 2 - July 16th, 2020
 
 #### Algo Expert
-4. :large_blue_circle: __Is Monotonic__ [Go](Medium/isMonotonic/Go)
+4. :large_blue_circle: __Is Monotonic__ [Go](Medium/monotonicArray/Go)
 5. :large_blue_circle: __Move Element To End__ [Go](Medium/moveElementToEnd/Go)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
