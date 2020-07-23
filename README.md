@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
 
  :white_circle: Easy: 4  
- :large_blue_circle: Medium: 5  
+ :large_blue_circle: Medium: 6  
  :red_circle: Hard: 2  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 11
+ __Total:__ 12
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -50,4 +50,9 @@ __Difficulty Levels solved__
 
 #### Algo Expert
 11. :red_circle: __Longest Substring Without Duplication__ [Go](Hard/longestSubstringWithoutDuplication/Go)
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 4 - July 23rd, 2020
+
+#### Leet Code
+12. :large_blue_circle: __The Kth Factor of N__ [Go](Medium/kthFactorOfN/Go)
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
