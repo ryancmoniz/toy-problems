@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
 
  :white_circle: Easy: 4  
- :large_blue_circle: Medium: 6  
+ :large_blue_circle: Medium: 7  
  :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 13
+ __Total:__ 14
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -58,4 +58,10 @@ __Difficulty Levels solved__
 
 #### Algo Expert
 13. :red_circle: __Merge Linked Lists__ [Go](Hard/mergeLinkedLists/Go)
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 4 - July 24th, 2020
+
+#### Misc
+14. :large_blue_circle: __Coin Sums__ [JS](Medium/coinSums/Javascript)
+
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
