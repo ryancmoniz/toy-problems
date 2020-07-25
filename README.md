@@ -59,7 +59,7 @@ __Difficulty Levels solved__
 #### Algo Expert
 13. :red_circle: __Merge Linked Lists__ [Go](Hard/mergeLinkedLists/Go)
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 4 - July 24th, 2020
+## Day 5 - July 24th, 2020
 
 #### Misc
 14. :large_blue_circle: __Coin Sums__ [JS](Medium/coinSums/Javascript)
