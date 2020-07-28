@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
 
  :white_circle: Easy: 4  
- :large_blue_circle: Medium: 6  
- :red_circle: Hard: 2  
+ :large_blue_circle: Medium: 7  
+ :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 12
+ __Total:__ 14
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -55,4 +55,13 @@ __Difficulty Levels solved__
 
 #### Leet Code
 12. :large_blue_circle: __The Kth Factor of N__ [Go](Medium/kthFactorOfN/Go)
+
+#### Algo Expert
+13. :red_circle: __Merge Linked Lists__ [Go](Hard/mergeLinkedLists/Go)
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 5 - July 24th, 2020
+
+#### Misc
+14. :large_blue_circle: __Coin Sums__ [JS](Medium/coinSums/Javascript)
+
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
