@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 4  
+ :white_circle: Easy: 5  
  :large_blue_circle: Medium: 7  
  :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 14
+ __Total:__ 15
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -63,5 +63,11 @@ __Difficulty Levels solved__
 
 #### Misc
 14. :large_blue_circle: __Coin Sums__ [JS](Medium/coinSums/Javascript)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 6 - July 27th, 2020
+
+#### Misc
+15. :white_circle: __Binary Search__ [Swift](Easy/binarySearch/Swift)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
