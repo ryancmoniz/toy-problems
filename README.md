@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 5  
+ :white_circle: Easy: 7  
  :large_blue_circle: Medium: 7  
  :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 15
+ __Total:__ 17
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -69,5 +69,12 @@ __Difficulty Levels solved__
 
 #### Misc
 15. :white_circle: __Binary Search__ [Swift](Easy/binarySearch/Swift)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 7 - July 28th, 2020
+
+#### Algo Expert
+16. :white_circle: __Caesar Cipher__ [Swift](Easy/caesarCipher/Swift)
+17. :white_circle: __Is Palindrome__ [Swift](Easy/isPalindrome/Swift)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
