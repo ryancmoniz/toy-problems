@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 7  
+ :white_circle: Easy: 8  
  :large_blue_circle: Medium: 7  
  :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 17
+ __Total:__ 18
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -78,3 +78,10 @@ __Difficulty Levels solved__
 17. :white_circle: __Is Palindrome__ [Swift](Easy/isPalindrome/Swift)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 8 - July 29th, 2020
+
+#### Algo Expert
+18. :white_circle: __Max Profit__ [Javascript](Easy/maxProfit/Javascript)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
