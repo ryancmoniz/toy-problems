@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 8  
+ :white_circle: Easy: 9  
  :large_blue_circle: Medium: 7  
- :red_circle: Hard: 3  
+ :red_circle: Hard: 4  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 18
+ __Total:__ 20
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -82,6 +82,16 @@ __Difficulty Levels solved__
 
 #### Algo Expert
 18. :white_circle: __Max Profit__ [Javascript](Easy/maxProfit/Javascript)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+
+## Day 9 - July 30th, 2020
+
+#### Interview Cake
+19. :white_circle: __Inflight Entertainment__ [Javascript](Easy/inflightEntertainment/Javascript)
+
+#### Leet Code
+20. :red_circle: __Word Break II__ [Javascript](Hard/wordBreakII/Javascript) [Swift](Hard/wordBreakII/Swift)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
