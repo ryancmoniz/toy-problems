@@ -97,7 +97,7 @@ __Difficulty Levels solved__
 ## Day 10 - July 31st, 2020
 
 #### Leet Code
-21. :large_blue_circle __Add Two Numbers__ [Javascript](Medium/addTwoNumbers/Javascript)
+21. :large_blue_circle: __Add Two Numbers__ [Javascript](Medium/addTwoNumbers/Javascript)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
