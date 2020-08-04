@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 9  
- :large_blue_circle: Medium: 8  
+ :white_circle: Easy: 11  
+ :large_blue_circle: Medium: 9  
  :red_circle: Hard: 4  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 21
+ __Total:__ 24
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -98,6 +98,14 @@ __Difficulty Levels solved__
 
 #### Leet Code
 21. :large_blue_circle: __Add Two Numbers__ [Javascript](Medium/addTwoNumbers/Javascript)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 11 - August 3rd, 2020
+
+#### Leet Code
+22. :white_circle: __Invert Binary Tree__ [Javascript](Easy/invertBinaryTree/Javascript)
+23. :white_circle: __Diameter of Binary Tree__ [Javascript](Easy/diameterBinaryTree/Javascript)
+24. :large_blue_circle: __Unique Paths__ [Javascript](Medium/uniquePaths/Javascript)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
