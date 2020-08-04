@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
 
  :white_circle: Easy: 9  
- :large_blue_circle: Medium: 7  
+ :large_blue_circle: Medium: 8  
  :red_circle: Hard: 4  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 20
+ __Total:__ 21
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -92,6 +92,12 @@ __Difficulty Levels solved__
 
 #### Leet Code
 20. :red_circle: __Word Break II__ [Javascript](Hard/wordBreakII/Javascript) [Swift](Hard/wordBreakII/Swift)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 10 - July 31st, 2020
+
+#### Leet Code
+21. :large_blue_circle: __Add Two Numbers__ [Javascript](Medium/addTwoNumbers/Javascript)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 
