@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
 
  :white_circle: Easy: 11  
- :large_blue_circle: Medium: 12  
+ :large_blue_circle: Medium: 13  
  :red_circle: Hard: 4  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 27
+ __Total:__ 28
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -115,3 +115,4 @@ __Difficulty Levels solved__
 25. :large_blue_circle: __Jump Game__ [Javascript](Medium/canJump/Javascript)
 26. :large_blue_circle: __Longest Increasing Subsequence of Number__ [Javascript](Medium/longestIncreasingSubsequence/Javascript)
 27. :large_blue_circle: __Letter Combinations of a Phone Number__ [Javascript](Medium/letterCombinationsOfPhoneNumber/Javascript)
+28. :large_blue_circle: __Odd Even Linked List__ [Javascript](Medium/oddEvenLinkedList/Javascript)
