@@ -5,11 +5,11 @@ __Difficulty Levels solved__
 
  :white_circle: Easy: 11  
  :large_blue_circle: Medium: 13  
- :red_circle: Hard: 4  
+ :red_circle: Hard: 5  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 28
+ __Total:__ 29
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -116,3 +116,9 @@ __Difficulty Levels solved__
 26. :large_blue_circle: __Longest Increasing Subsequence of Number__ [Javascript](Medium/longestIncreasingSubsequence/Javascript)
 27. :large_blue_circle: __Letter Combinations of a Phone Number__ [Javascript](Medium/letterCombinationsOfPhoneNumber/Javascript)
 28. :large_blue_circle: __Odd Even Linked List__ [Javascript](Medium/oddEvenLinkedList/Javascript)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 13 - August 5th, 2020
+
+#### Leet Code
+29. :red_circle: __The Skyline Problem__ [Javascript](Hard/theSkylineProblem/Javascript)
