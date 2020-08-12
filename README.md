@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 11  
- :large_blue_circle: Medium: 13  
+ :white_circle: Easy: 12  
+ :large_blue_circle: Medium: 14  
  :red_circle: Hard: 5  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 29
+ __Total:__ 31
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -122,3 +122,15 @@ __Difficulty Levels solved__
 
 #### Leet Code
 29. :red_circle: __The Skyline Problem__ [Javascript](Hard/theSkylineProblem/Javascript)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 13 - August 6th, 2020
+
+#### Leet Code
+30. :white_circle: __Pascal's Triangle__ [Javascript](Easy/pascalsTriangle/Javascript)
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 14 - August 11th, 2020
+
+#### Leet Code
+31. :large_blue_circle: __Integer to Roman__ [Javascript](Medium/integerToRoman/Javascript)
