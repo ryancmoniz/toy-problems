@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
 
- :white_circle: Easy: 12  
- :large_blue_circle: Medium: 14  
+ :white_circle: Easy: 13  
+ :large_blue_circle: Medium: 15  
  :red_circle: Hard: 5  
  :black_circle: Very Hard: 0  
  :star: Good to review  
 
- __Total:__ 31
+ __Total:__ 33
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1 - July 19th, 2020
@@ -134,3 +134,9 @@ __Difficulty Levels solved__
 
 #### Leet Code
 31. :large_blue_circle: __Integer to Roman__ [Javascript](Medium/integerToRoman/Javascript)
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 15 - August 13th, 2020
+
+#### Leet Code
+32. :white_circle: __Missing Number__ [Javascript](Easy/missingNumber/Javascript)
+33. :large_blue_circle: __Find Duplicate Number__ [Javascript](Medium/findDuplicateNumber/Javascript)
